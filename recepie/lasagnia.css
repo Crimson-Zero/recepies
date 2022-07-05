@@ -1,0 +1,12 @@
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.image{
+    text-align: center;
+}
+
+a:hover {
+    color: hotpink;
+    
+  }
