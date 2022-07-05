@@ -1,2 +1,2 @@
 # recepies
-Using HTML created a recepies basic website
+Using HTML and CSS created a basic recepies website
